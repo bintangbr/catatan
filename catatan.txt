@@ -1,0 +1,5 @@
+konfigurasi virtualhost nginx ubuntu
+https://www.dewaweb.com/blog/cara-konfigurasi-virtual-host-di-nginx/
+
+install ssl nginx ubuntu
+https://www.rosehosting.com/blog/how-to-secure-nginx-with-lets-encrypt-on-ubuntu-20-04/
