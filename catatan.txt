@@ -3,3 +3,6 @@ https://www.dewaweb.com/blog/cara-konfigurasi-virtual-host-di-nginx/
 
 install ssl nginx ubuntu
 https://www.rosehosting.com/blog/how-to-secure-nginx-with-lets-encrypt-on-ubuntu-20-04/
+
+install ssl apache ubuntu 20.04
+https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-20-04
