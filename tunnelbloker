@@ -1,0 +1,12 @@
+network:
+  version: 2
+  tunnels:
+    he-ipv6:
+      mode: sit
+      remote: 216.218.221.42
+      local: 103.190.112.245
+      addresses:
+        - "2001:470:35:2f5::2/64"
+      routes:
+        - to: default
+          via: "2001:470:35:2f5::1"
